@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shradhesh Jain</title>
+    <style>
+  .smk{
+    margin-top:330px;
+    margin-left:-30px;
+    width: 750px;
+    border-radius:120px;
+    height: 45px;
+    background: #A64942;
+  }
+  .smk1{
+    margin-top:-48px;
+    margin-left:780px;
+    width: 730px;
+    border-radius:120px;
+    height: 45px;
+    background: #A64942;
+  }
+  .smk2{
+    background:#FE5F55;
+    width:45px;
+    border-radius:120px;
+    height:373px;
+    margin-top:-405px;
+    margin-left:728px;
+  }
+    .smk3{
+    background:#FE5F55;
+    width:45px;
+    border-radius:120px;
+    height:383px;
+    margin-left:728px;
+    margin-top:28px;
+  }
+  body{
+    background:#191919;
+  }
+</style>
+</head>
+<body>
+  <div class="smk"></div>
+  <div class="smk1"></div>
+  <div class="smk2"></div>
+  <div class="smk3"></div>
+</body>
+</html>
